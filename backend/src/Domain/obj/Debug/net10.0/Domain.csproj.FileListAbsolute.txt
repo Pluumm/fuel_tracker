@@ -1,0 +1,12 @@
+/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Domain/bin/Debug/net10.0/Domain.deps.json
+/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Domain/bin/Debug/net10.0/Domain.dll
+/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Domain/bin/Debug/net10.0/Domain.pdb
+/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Domain/obj/Debug/net10.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Domain/obj/Debug/net10.0/Domain.AssemblyInfoInputs.cache
+/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Domain/obj/Debug/net10.0/Domain.AssemblyInfo.cs
+/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Domain/obj/Debug/net10.0/Domain.csproj.CoreCompileInputs.cache
+/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Domain/obj/Debug/net10.0/Domain.sourcelink.json
+/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Domain/obj/Debug/net10.0/Domain.dll
+/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Domain/obj/Debug/net10.0/refint/Domain.dll
+/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Domain/obj/Debug/net10.0/Domain.pdb
+/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Domain/obj/Debug/net10.0/ref/Domain.dll
