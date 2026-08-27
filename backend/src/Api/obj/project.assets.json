@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net10.0": {
       "FluentValidation/11.11.0": {
@@ -3161,19 +3161,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/lukes/.nuget/packages/": {}
+    "C:\\Users\\Luke\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Api/Api.csproj",
+      "projectUniqueName": "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Api\\Api.csproj",
       "projectName": "Api",
-      "projectPath": "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Api/Api.csproj",
-      "packagesPath": "/Users/lukes/.nuget/packages/",
-      "outputPath": "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Api/obj/",
+      "projectPath": "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Api\\Api.csproj",
+      "packagesPath": "C:\\Users\\Luke\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/lukes/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Luke\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -3183,13 +3183,14 @@
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Application/Application.csproj": {
-              "projectPath": "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Application/Application.csproj"
+            "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Application\\Application.csproj"
             },
-            "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Infrastructure/Infrastructure.csproj": {
-              "projectPath": "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Infrastructure/Infrastructure.csproj"
+            "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -3204,10 +3205,11 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "10.0.400"
     },
     "frameworks": {
       "net10.0": {
+        "framework": "net10.0",
         "targetAlias": "net10.0",
         "dependencies": {
           "FluentValidation.AspNetCore": {
@@ -3252,7 +3254,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
@@ -3669,5 +3671,17 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.OpenApi' 2.4.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }

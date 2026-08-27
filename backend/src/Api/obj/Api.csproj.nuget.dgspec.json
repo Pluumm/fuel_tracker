@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Api/Api.csproj": {}
+    "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Api\\Api.csproj": {}
   },
   "projects": {
-    "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Api/Api.csproj": {
+    "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Api/Api.csproj",
+        "projectUniqueName": "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Api/Api.csproj",
-        "packagesPath": "/Users/lukes/.nuget/packages/",
-        "outputPath": "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Api/obj/",
+        "projectPath": "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Api\\Api.csproj",
+        "packagesPath": "C:\\Users\\Luke\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/lukes/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Luke\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -24,13 +24,14 @@
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Application/Application.csproj": {
-                "projectPath": "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Application/Application.csproj"
+              "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Application\\Application.csproj"
               },
-              "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Infrastructure/Infrastructure.csproj": {
-                "projectPath": "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Infrastructure/Infrastructure.csproj"
+              "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -45,10 +46,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "FluentValidation.AspNetCore": {
@@ -93,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
@@ -511,17 +513,17 @@
         }
       }
     },
-    "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Application/Application.csproj": {
+    "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Application/Application.csproj",
+        "projectUniqueName": "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Application/Application.csproj",
-        "packagesPath": "/Users/lukes/.nuget/packages/",
-        "outputPath": "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Application/obj/",
+        "projectPath": "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\Luke\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/lukes/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Luke\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -531,10 +533,11 @@
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Domain/Domain.csproj": {
-                "projectPath": "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Domain/Domain.csproj"
+              "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Domain\\Domain.csproj"
               }
             }
           }
@@ -549,10 +552,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -570,7 +574,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -848,17 +852,17 @@
         }
       }
     },
-    "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Domain/Domain.csproj": {
+    "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Domain/Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Domain/Domain.csproj",
-        "packagesPath": "/Users/lukes/.nuget/packages/",
-        "outputPath": "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Domain/obj/",
+        "projectPath": "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Luke\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/lukes/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Luke\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -868,6 +872,7 @@
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -882,10 +887,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -903,7 +909,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -1181,17 +1187,17 @@
         }
       }
     },
-    "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Infrastructure/Infrastructure.csproj": {
+    "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Infrastructure/Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Infrastructure/Infrastructure.csproj",
-        "packagesPath": "/Users/lukes/.nuget/packages/",
-        "outputPath": "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Infrastructure/obj/",
+        "projectPath": "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Luke\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/lukes/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Luke\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -1201,13 +1207,14 @@
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Application/Application.csproj": {
-                "projectPath": "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Application/Application.csproj"
+              "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Application\\Application.csproj"
               },
-              "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Domain/Domain.csproj": {
-                "projectPath": "/Users/lukes/Documents/Projects/fuel_tracker/backend/src/Domain/Domain.csproj"
+              "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Luke\\Documents\\Projects\\fuel_tracker\\backend\\src\\Domain\\Domain.csproj"
               }
             }
           }
@@ -1222,10 +1229,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
@@ -1259,7 +1267,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
